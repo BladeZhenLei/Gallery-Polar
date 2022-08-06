@@ -18,5 +18,8 @@ All of the below plots are done by Mathematica using PolarPlot.
 ### 5. Blast (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237093-c6a7c225-658e-404c-8bcc-38bc807e9f99.png" width="500" height="450" ></p>
 
+### 6. Bloom (Bessel Y Function)
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237286-5676fd2a-2aec-4043-88f5-8b07468289f9.png" width="500" height="450" ></p>
+
 
 If you are interested in them, feel free to contact me at bladelei@yahoo.com, thank you for visiting my gallery.

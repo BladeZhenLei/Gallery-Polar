@@ -13,7 +13,7 @@ All of the below plots are done by Mathematica using PolarPlot.
 ### 3. Swirl (Beta Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236134-09723b14-698b-4c76-8cef-bdc732f073bb.png" width="500" height="450" ></p>
 
-### 4. Spider (Beta Function)
+### 4. Spider (Sine and Cosine Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236530-5dd80a2a-ad95-4217-85e7-9d88773230c2.png" width="500" height="400" ></p>
 
 

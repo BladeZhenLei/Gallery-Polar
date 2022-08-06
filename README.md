@@ -22,7 +22,7 @@ All of the below plots are done by Mathematica using PolarPlot.
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237286-5676fd2a-2aec-4043-88f5-8b07468289f9.png" width="500" height="400" ></p>
 
 ### 7. Snail (Bessel Y Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237503-70d8bcbc-bdbf-410c-ad05-e3b8347bddef.png" width="500" height="400" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237503-70d8bcbc-bdbf-410c-ad05-e3b8347bddef.png" width="500" height="500" ></p>
 
 
 If you are interested in them, feel free to contact me at bladelei@yahoo.com, thank you for visiting my gallery.

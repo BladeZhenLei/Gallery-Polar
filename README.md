@@ -1,7 +1,7 @@
 ## Mathematical Art - Polar
 All of the below plots are done by Mathematica using PolarPlot.
 
-### 1. Swing (Riemann-Siegel Z Function)
+### 1. Bloom (Riemann-Siegel Z Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182991943-ef869548-e8d5-4c52-829a-8884657ca6b5.png" width="500" height="420" ></p>
 
 ### 2. Star (Secant Function)
@@ -16,10 +16,7 @@ All of the below plots are done by Mathematica using PolarPlot.
 ### 5. Blast (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237093-c6a7c225-658e-404c-8bcc-38bc807e9f99.png" width="500" height="400" ></p>
 
-### 6. Bloom (Bessel Y Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237286-5676fd2a-2aec-4043-88f5-8b07468289f9.png" width="500" height="400" ></p>
-
-### 7. Snail (Bessel Y Function)
+### 6. Snail (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237503-70d8bcbc-bdbf-410c-ad05-e3b8347bddef.png" width="500" height="500" ></p>
 
 

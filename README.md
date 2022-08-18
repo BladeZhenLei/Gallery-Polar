@@ -18,6 +18,3 @@ All of the below plots are done by Mathematica using PolarPlot[].
 
 ### 6. Warp (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237503-70d8bcbc-bdbf-410c-ad05-e3b8347bddef.png" width="500" height="500" ></p>
-
-
-If you are interested in them, feel free to contact me at bladelei@yahoo.com, thank you for visiting my gallery.

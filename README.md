@@ -22,7 +22,7 @@
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/185661111-0595140e-b841-4e14-bcb9-2cf6a8a275ce.png" width="500" height="500" ></p>
 
 ### 8. Strip (Mathieu S Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/185662559-4b4e91e5-e533-4c33-92a2-eda411fec3fb.png" width="500" height="500" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/185662559-4b4e91e5-e533-4c33-92a2-eda411fec3fb.png" width="500" height="400" ></p>
 
 
 

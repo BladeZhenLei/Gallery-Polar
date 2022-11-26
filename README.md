@@ -25,7 +25,7 @@
 
 
 ### 9. Petals (Collatz Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204101700-0f8de2a9-96e9-441a-979d-29ea28a1217c.png" width="500" height="500" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204101700-0f8de2a9-96e9-441a-979d-29ea28a1217c.png" width="500" height="450" ></p>
 
 
 

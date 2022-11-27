@@ -1,7 +1,7 @@
 ***
 
 ### 1. Rope (Cosine Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204114673-a27f35dd-29a2-41d9-858d-daabac93e8d6.png" width="500" height="450" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204115049-ccb661d9-6a4b-4bf7-b8fa-d468996730ae.png" width="500" height="450" ></p>
 
 ### 2. Star (Secant Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182996236-f3f7e66c-28ef-46f6-8be0-05de2187ad83.png" width="500" height="380" ></p>

@@ -1,7 +1,7 @@
 ***
 
-### 1. Bloom (Riemann-Siegel Z Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182991943-ef869548-e8d5-4c52-829a-8884657ca6b5.png" width="500" height="420" ></p>
+### 1. Rope (Cosine Function)
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204114673-a27f35dd-29a2-41d9-858d-daabac93e8d6.png" width="500" height="450" ></p>
 
 ### 2. Star (Secant Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182996236-f3f7e66c-28ef-46f6-8be0-05de2187ad83.png" width="500" height="380" ></p>
@@ -24,10 +24,8 @@
 ### 8. Strip (Mathieu S Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/185662559-4b4e91e5-e533-4c33-92a2-eda411fec3fb.png" width="500" height="400" ></p>
 
-### 9. Rope (Cosine Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204114673-a27f35dd-29a2-41d9-858d-daabac93e8d6.png" width="500" height="450" ></p>
-
-
+### 9. Bloom (Riemann-Siegel Z Function)
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182991943-ef869548-e8d5-4c52-829a-8884657ca6b5.png" width="500" height="420" ></p>
 
 
 

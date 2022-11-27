@@ -9,8 +9,8 @@
 ### 3. Warp (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237503-70d8bcbc-bdbf-410c-ad05-e3b8347bddef.png" width="500" height="500" ></p>
 
-### 4. Duplicate (Fresnel S Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204119040-38e37c1e-bb98-432c-9417-01b849d5d2ce.png" width="500" height="400" ></p>
+### 4. Deep (Fresnel S Function)
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204119125-c71f3b2b-e846-4239-8dbd-1744af464336.png" width="500" height="400" ></p>
 
 
 ### 5. Band (Mathieu S Function)

@@ -23,10 +23,7 @@
 ### 8. Strip (Mathieu S Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/185662559-4b4e91e5-e533-4c33-92a2-eda411fec3fb.png" width="500" height="400" ></p>
 
-### 9. Petals (Collatz Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204101700-0f8de2a9-96e9-441a-979d-29ea28a1217c.png" width="500" height="450" ></p>
-
-### 10. Rope (Cosine Function)
+### 9. Rope (Cosine Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204114673-a27f35dd-29a2-41d9-858d-daabac93e8d6.png" width="500" height="450" ></p>
 
 

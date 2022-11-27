@@ -10,7 +10,7 @@
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183237503-70d8bcbc-bdbf-410c-ad05-e3b8347bddef.png" width="500" height="500" ></p>
 
 ### 4. Deep (Fresnel S Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204119203-f97ad9ae-d00c-4271-8a29-42260c5c1276.png" width="500" height="425" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204119313-2fec7059-bde5-4134-97c2-d0945871fa53.png" width="500" height="425" ></p>
 
 
 ### 5. Band (Mathieu S Function)

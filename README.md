@@ -16,9 +16,5 @@
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204117627-238c5ecc-7071-4bbe-bc13-487604a38067.png" width="500" height="400" ></p>
 
 
-### 6. Bloom (Riemann-Siegel Z Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182991943-ef869548-e8d5-4c52-829a-8884657ca6b5.png" width="500" height="420" ></p>
-
-
 
 

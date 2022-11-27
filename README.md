@@ -1,12 +1,7 @@
 ***
 
-### 1. Rope (Cosine Function)
+### 1. Swirl (Cosine Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204115117-66584351-54fe-4ee3-9877-3b4ff283cd22.png" width="500" height="450" ></p>
-
-
-
-### 2. Star (Secant Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182996236-f3f7e66c-28ef-46f6-8be0-05de2187ad83.png" width="500" height="380" ></p>
 
 ### 3. Swirl (Beta Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236134-09723b14-698b-4c76-8cef-bdc732f073bb.png" width="500" height="460" ></p>

@@ -12,8 +12,8 @@
 ### 4. Electric (Fresnel S Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/185661111-0595140e-b841-4e14-bcb9-2cf6a8a275ce.png" width="500" height="500" ></p>
 
-### 5. Strip (Mathieu S Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/185662559-4b4e91e5-e533-4c33-92a2-eda411fec3fb.png" width="500" height="400" ></p>
+### 5. Band (Mathieu S Function)
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204117373-305de696-2641-4ea0-b58c-540e9dab85b4.png" width="500" height="400" ></p>
 
 ### 6. Bloom (Riemann-Siegel Z Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182991943-ef869548-e8d5-4c52-829a-8884657ca6b5.png" width="500" height="420" ></p>

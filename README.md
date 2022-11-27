@@ -1,6 +1,4 @@
 ***
-### 1. Rope (Cosine Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204114673-a27f35dd-29a2-41d9-858d-daabac93e8d6.png" width="500" height="450" ></p>
 
 ### 1. Bloom (Riemann-Siegel Z Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182991943-ef869548-e8d5-4c52-829a-8884657ca6b5.png" width="500" height="420" ></p>
@@ -28,9 +26,6 @@
 
 ### 9. Rope (Cosine Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204114673-a27f35dd-29a2-41d9-858d-daabac93e8d6.png" width="500" height="450" ></p>
-
-### 9. Bloom (Riemann-Siegel Z Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182991943-ef869548-e8d5-4c52-829a-8884657ca6b5.png" width="500" height="420" ></p>
 
 
 

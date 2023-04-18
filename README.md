@@ -1,3 +1,7 @@
+***
+### About
+Unlike rectangular (Cartesian) coordinates, polar coordinates are circular, which makes function look like ray or spiral.
+
 ### 1. Swirl (Cosine Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204115117-66584351-54fe-4ee3-9877-3b4ff283cd22.png" width="500" height="450" ></p>
 
